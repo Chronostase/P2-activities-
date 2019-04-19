@@ -4,3 +4,5 @@ import UIKit
 func presentation(firstName: String, name: String) {
     print("Hey ! I'm \(firstName) \(name)")
 }
+
+presentation(firstName: "Thomas", name: "Giron")
