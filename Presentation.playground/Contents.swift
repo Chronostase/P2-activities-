@@ -6,4 +6,3 @@ func presentation(firstName: String, name: String) {
 }
 
 presentation(firstName: "Thomas", name: "Giron")
-// nil
